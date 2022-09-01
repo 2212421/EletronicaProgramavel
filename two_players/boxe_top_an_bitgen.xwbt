@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=D:\Eletr_Programavel\two_players\boxe_top_an.ncd
+OUTFILE=D:\Eletr_Programavel\two_players\boxe_top_an.bit
+FAMILY=Spartan3E
+PART=xc3s100e-5cp132
+WORKINGDIR=D:\Eletr_Programavel\two_players
+LICENSE=WebPack
+USER_INFO=211631337_0_0_576

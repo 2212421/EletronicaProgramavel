@@ -1,0 +1,1 @@
+vhdtdtfi -prj two_players -o D:/Eletr_Programavel/two_players/univ_bin_counter.tfi -module univ_bin_counter -template C:/Xilinx/14.5/ISE_DS/ISE//data/tfi.tft -deleteonerror -lib work contador_universal.vhd 

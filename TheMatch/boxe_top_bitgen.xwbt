@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=D:\Eletr_Programavel\projeto\TheMatch\boxe_top.ncd
+OUTFILE=D:\Eletr_Programavel\projeto\TheMatch\boxe_top.bit
+FAMILY=Spartan3E
+PART=xc3s100e-5cp132
+WORKINGDIR=D:\Eletr_Programavel\projeto\TheMatch
+LICENSE=WebPack
+USER_INFO=211631337_0_0_576
